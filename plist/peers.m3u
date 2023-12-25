@@ -429,7 +429,7 @@ http://api.peers.tv/timeshift/otvrus/16/playlist.m3u8?offset=3
 http://api.peers.tv/timeshift/otvrus/126/playlist.m3u8?offset=3
 #EXTINF:-1 tvg-logo="https://s1.peers.tv/data/illustrations/ills/2015/10/08/55753/55753431.png" group-title="Эфирные" channelId="1" tvg-id="pervy" tvg-shift="-4" shift="+4",Первый (+4)
 http://api.peers.tv/timeshift/1kanal/16/playlist.m3u8?offset=3
-#EXTINF:-1 tvg-logo="https://s1.peers.tv/data/illustrations/ills/2013/11/06/25843/25843682.png" group-title="Эфирные" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/253d713fa8b42b4511edcdb3272f4d08.png" channelId="1" tvg-id="pervy" tvg-shift="-4" shift="+4",Первый HD (+4)
+#EXTINF:-1 tvg-logo="https://s1.peers.tv/data/illustrations/ills/2013/11/06/25843/25843682.png" group-title="Эфирные" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/253d713fa8b42b4511edcdb3272f4d08.png" channelId="1" tvg-id="pervy",Первый канал HD
 http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?offset=3
 #EXTINF:-1 tvg-logo="https://s1.peers.tv/data/illustrations/ills/2015/10/08/55753/55753431.png" group-title="Эфирные" channelId="1" tvg-id="pervy",Первый
 http://api.peers.tv/timeshift/1kanal/126/playlist.m3u8?offset=3
