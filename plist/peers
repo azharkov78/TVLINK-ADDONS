@@ -215,7 +215,7 @@ http://api.peers.tv/timeshift/ots/16/playlist.m3u8?offset=3
 http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?offset=3
 #EXTINF:-1,Первый (+4)
 http://api.peers.tv/timeshift/1kanal/16/playlist.m3u8?offset=3
-#EXTINF:-1,Первый HD
+#EXTINF:-1,Первый канал HD
 http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?offset=3
 #EXTINF:-1,Первый вегетарианский
 http://api.peers.tv/timeshift/pervyy_vegetarianskiy/16/playlist.m3u8?offset=3
